@@ -1,2 +1,2 @@
-# tmu-v2-standard-EDMCR
-TMU standard with E-DMCR
+# tmu-v2-standard
+Transformer Monitoring Unit PT Bambang Djaja for Standard Type TMU
